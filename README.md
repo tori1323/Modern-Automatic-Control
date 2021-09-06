@@ -2,7 +2,11 @@
 Repository is for the ECE graduate course at Purdue on Modern Automatic Control. 
 The following repository contains the Matlab coding assignments preformed throughout the semester.
 ### **Homework Assigment 1** 
-Write general summary of assignement.
+* Derived equations of motion for double inverted pendulum on a cart (DIPC)
+* Linearized using Taylor series
+* Found controller and oberserver form
+* Transfer functions of the linearized model
+* Animated nonlinear model
 
 ### **Homework Assigment 2**
 Write general summary of assignement.
