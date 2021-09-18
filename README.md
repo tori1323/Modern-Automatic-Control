@@ -6,7 +6,7 @@ The following repository contains the Matlab coding assignments preformed throug
 * Linearized using Taylor series
 * Found controller and oberserver form
 * Transfer functions of the linearized model
-* Animated nonlinear model
+* Animated nonlinear model - 3D video: https://youtu.be/dpKfJwc5JVk
 
 ### **Homework Assigment 2**
 Write general summary of assignement.
