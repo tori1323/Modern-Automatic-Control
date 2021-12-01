@@ -21,13 +21,18 @@ The following repository contains the Matlab coding assignments preformed throug
 * Drive the nonlinear animation with the controller
 
 ### **Homework Assigment 3**
-Write general summary of assignement.
+* Linearize nonlinear equations around a non-zero point
+* Design a state-feedback controller using an LMI solver
+* Design a output-feedback controller using an LMI solver
+* Design and animate a state-feedback controller-observer compensator
 
 ### **Homework Assigment 4**
-Write general summary of assignement.
+* Discritize the model
+* Design a Model Predicitive Controller (MPC) without any contraints
+* Implement contraints on the MPC
+* Combine an observer into the design
 
 ### **Homework Assigment 5**
-Write general summary of assignement.
+* Design an Unknown Input Observer (UIO) for uknown inputs and noise on sensors
+* Continuous and discrete controllers
 
-### **Homework Assigment 6**
-Write general summary of assignement.
